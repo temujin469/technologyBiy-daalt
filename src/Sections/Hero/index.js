@@ -191,14 +191,15 @@ const HeroSection = () => {
         <Lb id="leftBlock">
           <Topic>
             <Circle />
-            <span>We Build Web</span>
+            <span>технологи</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>Яагаад бидэнд технологи хэрэгтэй байна вэ?</Title>
           <SubText>
-            we help fast growing companies build award winning websites
+            Техник өдөр тутам хөгжиж байгаа энэ цаг үед бид шинийг ашиглаж ихийг
+            мэдэх болно
           </SubText>
           <CTA>
-            Get in touch &nbsp;
+            Энд дарна уу &nbsp;
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
         </Lb>

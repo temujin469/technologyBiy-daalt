@@ -46,18 +46,9 @@ const LeftText = styled.div`
 const Footer = () => {
   return (
     <FOOTER>
-      <LeftText>
-        © 2021 Built and Design by{" "}
-        <a href="https://www.youtube.com/channel/UCeYt6blRBKuNrEg_-282fSA">
-          @CodeBucks
-        </a>
-      </LeftText>
+      <LeftText>© 2023 Тэмүүжин Эрхэс </LeftText>
       <RightText>
-        Reach out to me via 😉
-        <a href="https://twitter.com/code_bucks">
-          <img src={Twitter} alt="Twitter" />
-        </a>
-        &nbsp;
+        Холбоо барих &nbsp;
         <a href="https://www.instagram.com/code.bucks/">
           <img src={Instagram} alt="Instagram" />
         </a>

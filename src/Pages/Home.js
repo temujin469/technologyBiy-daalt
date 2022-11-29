@@ -23,7 +23,6 @@ const Home = () => {
       <About />
       <Services />
       <Testimonials />
-      <Contact />
     </Container>
   );
 };
